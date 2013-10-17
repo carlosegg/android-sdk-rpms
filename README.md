@@ -28,5 +28,5 @@ Installation
 ------------
 
 ```bash
-vagrant@dev-develenv-01:~/workspace/android-sdk$ sudo yum install RPMS/android-sdk*.rpm --y
+vagrant@dev-develenv-01:~/workspace/android-sdk$ sudo yum install sdk/RPMS/android-sdk*.rpm --y
 ```
