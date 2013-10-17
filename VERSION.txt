@@ -1,0 +1,6 @@
+#TODO:This file must be remove when scm complaints with pdi 
+Project: android
+Module:  sdk
+Version: 22.2.1
+Organization: softwaresano
+PrefixOrganization: ss

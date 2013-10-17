@@ -1,0 +1,7 @@
+target/
+BUILD/
+BUILDROOT/
+RPMS/
+SRPMS/
+*.tgz
+.project
