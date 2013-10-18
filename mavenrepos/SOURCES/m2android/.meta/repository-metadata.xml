@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>@rootUrl@/content/repositories/android_support</url>
+  <id>android_support</id>
+  <name>Android support repo</name>
+  <layout>maven2</layout>
+  <policy>release</policy>
+</repository-metadata>
